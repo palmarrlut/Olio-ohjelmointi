@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Week8</string>
+    <string name="drink_prompt">Choose a drink</string>
+    <string name="size_prompt">Choose bottle size</string>
+
+    <string-array name="drinks_array">
+        <item>Pepsi</item>
+        <item>Pepsi Max</item>
+        <item>Coca-Cola</item>
+        <item>Coca-Cola Zero</item>
+        <item>Fanta</item>
+        <item>Fanta Zero</item>
+    </string-array>
+
+    <string-array name="size_array">
+        <item>0.33</item>
+        <item>0.5</item>
+        <item>1.5</item>
+    </string-array>
+</resources>
